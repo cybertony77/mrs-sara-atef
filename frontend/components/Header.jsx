@@ -24,7 +24,7 @@ export default function Header() {
         <span onClick={() => router.push('/dashboard')} style={{ cursor: 'pointer', display: 'inline-block' }}>
           <img
             src="/logo.png"
-            alt="Mrs. Sara Afet Attendance System Logo"
+            alt="Mrs. Sara Atef Attendance System Logo"
             width={48}
             height={48}
             style={{ 
@@ -65,7 +65,7 @@ export default function Header() {
           letterSpacing: 1.2,
           textShadow: '0 2px 8px rgba(31,168,220,0.10)'
         }}>
-          Mrs. Sara Afet Attendance System
+          Mrs. Sara Atef Attendance System
         </span>
       </div>
       <UserMenu />

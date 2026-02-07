@@ -20,7 +20,7 @@ export default function PublicHeader() {
     >
       <Image
         src="/logo.png"
-        alt="Trackify Logo"
+        alt="Mrs. Sara Atef Logo"
         width={50}
         height={50}
         style={{

@@ -30,7 +30,7 @@ export default function Dashboard() {
         }}>
           <Image
             src="/logo.png"
-            alt="Mrs. Sara Afet Attendance System Logo"
+            alt="Mrs. Sara Atef Attendance System Logo"
             width={70}
             height={70}
             style={{
@@ -40,7 +40,7 @@ export default function Dashboard() {
               background: "transparent"
             }}
           />
-              <h1 style={{ margin: 0, color: "#ffffff" }}>Mrs. Sara Afet Dashboard</h1>
+              <h1 style={{ margin: 0, color: "#ffffff" }}>Mrs. Sara Atef Dashboard</h1>
         </div>
         
         {/* Access Denied Message */}

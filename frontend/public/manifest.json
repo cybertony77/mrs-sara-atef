@@ -1,7 +1,7 @@
 {
   "name": "SA Attendance System",
   "short_name": "SA Attendance System",
-  "description": "Attendance management system for Mrs. Sara Afet students",
+  "description": "Attendance management system for Mrs. Sara Atef students",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

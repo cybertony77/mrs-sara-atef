@@ -14,7 +14,7 @@ export default function Footer() {
       marginTop: 'auto',
       flexShrink: 0
     }}>
-      Copyright &copy; {year} - Mrs. Sara Afet
+      Copyright &copy; {year} - Mrs. Sara Atef
 
       <style jsx>{`
         @media (max-width: 768px) {

@@ -138,7 +138,7 @@ Note :-
 
 We are always happy to stay in touch 😊❤
 
-– Mrs. Sara Afet`;
+– Mrs. Sara Atef`;
 
       // Create WhatsApp URL with the formatted message
       const whatsappUrl = `https://wa.me/${parentNumber}?text=${encodeURIComponent(whatsappMessage)}`;
