@@ -705,7 +705,7 @@ export default function ContactDeveloperPage() {
               </h3>
               <div>
                 <a 
-                  href="https://wa.me/201211172756?text=Hello%20Tony,%20I%20need%20help%20in%20Mr.%20George%20Magdy%20Attendance%20System" 
+                  href="https://wa.me/201211172756?text=Hello%20Tony,%20I%20need%20help%20in%20Mrs.%20Sara%20Atef%20Attendance%20System" 
                   target="_blank"
                   rel="noopener noreferrer"
                   className="contact-link"
